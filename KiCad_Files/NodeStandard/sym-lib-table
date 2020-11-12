@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name IRFZ44N)(type Legacy)(uri ${KIPRJMOD}/Libs/IRFZ44N.lib)(options "")(descr ""))
+  (lib (name PC814)(type Legacy)(uri ${KIPRJMOD}/Libs/PC814.lib)(options "")(descr ""))
+  (lib (name ESP32-POE-Olimex-Symbol-Kicad-90820)(type Legacy)(uri ${KIPRJMOD}/Libs/ESP32-POE-Olimex-Symbol-Kicad-90820.lib)(options "")(descr ""))
+  (lib (name ZMCT118F)(type Legacy)(uri ${KIPRJMOD}/Libs/ZMCT118F.lib)(options "")(descr ""))
+)
