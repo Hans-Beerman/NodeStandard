@@ -1,6 +1,6 @@
 **NodeStandard**
 
-NodeStandard is the base for a different nodes, used at the MakerSpace Leiden, to control different pieces of equipment. This repository has the following subdirs:
+NodeStandard is the base for different nodes, used at the MakerSpace Leiden, to control different pieces of equipment. This repository has the following subdirs:
 
 - **Drawings:**
 
