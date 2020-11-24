@@ -1,4 +1,4 @@
-18973530689051021
+18978347993650021
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50882,6 +50882,27 @@ connector barrel jack
 0
 3
 3
+Footprints
+DIL04
+<b>Dual In Line Package</b>
+
+0
+4
+4
+Footprints
+Jack_3.5mm_CUI_FEMPM_Horizontal
+TRS 3.5mm, horizontal, through-hole, with switch, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Footprints
+TA12-100
+ACDC-Converter, 3W, HiLink, HLK-PMxx, THT, http://www.hlktech.net/product_detail.php?ProId=54
+ACDC-Converter 3W THT HiLink board mount module
+0
+2
+2
 Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
