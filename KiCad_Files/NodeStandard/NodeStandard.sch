@@ -5,8 +5,8 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Node Standard"
-Date "2020-12-04"
-Rev "V0.5"
+Date "2020-12-10"
+Rev "V0.6"
 Comp "MakerSpace Leiden"
 Comment1 "Getekend door: Hans Beerman"
 Comment2 ""
@@ -1932,7 +1932,7 @@ L Connector:AudioJack3_SwitchTR J2
 U 1 1 5FBF29E7
 P 1750 5700
 F 0 "J2" H 1732 6025 50  0000 C CNN
-F 1 "AudioJack3_SwitchTR" H 1732 5934 50  0000 C CNN
+F 1 "Current coil in" H 1732 5934 50  0000 C CNN
 F 2 "Jack_3.5mm_CUI_FEMPM_Horizontal" H 1750 5700 50  0001 C CNN
 F 3 "~" H 1750 5700 50  0001 C CNN
 	1    1750 5700
@@ -1997,7 +1997,7 @@ L Connector:Screw_Terminal_01x02 J17
 U 1 1 5FF43CF4
 P 10650 6800
 F 0 "J17" H 10625 6925 50  0000 L CNN
-F 1 "Schakelaar 1 in" H 10775 6925 50  0000 L CNN
+F 1 "Switch 1 in" H 10775 6925 50  0000 L CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" H 10650 6800 50  0001 C CNN
 F 3 "~" H 10650 6800 50  0001 C CNN
 	1    10650 6800
@@ -2012,7 +2012,7 @@ L Connector:Screw_Terminal_01x02 J16
 U 1 1 5FF73192
 P 10625 8300
 F 0 "J16" H 10600 8425 50  0000 L CNN
-F 1 "Schakelaar 2 in" H 10750 8425 50  0000 L CNN
+F 1 "Switch 2 in" H 10750 8425 50  0000 L CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" H 10625 8300 50  0001 C CNN
 F 3 "~" H 10625 8300 50  0001 C CNN
 	1    10625 8300
@@ -2027,7 +2027,7 @@ L Connector:Screw_Terminal_01x02 J15
 U 1 1 5FF89856
 P 10600 9800
 F 0 "J15" H 10575 9925 50  0000 L CNN
-F 1 "Schakelaar 3 in" H 10725 9925 50  0000 L CNN
+F 1 "Switch 3 in" H 10725 9925 50  0000 L CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" H 10600 9800 50  0001 C CNN
 F 3 "~" H 10600 9800 50  0001 C CNN
 	1    10600 9800

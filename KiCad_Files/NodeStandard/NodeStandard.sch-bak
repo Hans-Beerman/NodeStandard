@@ -5,7 +5,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Node Standard"
-Date "2020-12-03"
+Date "2020-12-04"
 Rev "V0.5"
 Comp "MakerSpace Leiden"
 Comment1 "Getekend door: Hans Beerman"
@@ -1773,12 +1773,12 @@ GPIO16_I2C-SCL
 $Comp
 L power:GND #PWR013
 U 1 1 5FB1C928
-P 3600 4175
-F 0 "#PWR013" H 3600 3925 50  0001 C CNN
-F 1 "GND" H 3605 4002 50  0000 C CNN
-F 2 "" H 3600 4175 50  0001 C CNN
-F 3 "" H 3600 4175 50  0001 C CNN
-	1    3600 4175
+P 3700 4025
+F 0 "#PWR013" H 3700 3775 50  0001 C CNN
+F 1 "GND" H 3705 3852 50  0000 C CNN
+F 2 "" H 3700 4025 50  0001 C CNN
+F 3 "" H 3700 4025 50  0001 C CNN
+	1    3700 4025
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -1828,7 +1828,7 @@ Text Notes 2475 3750 2    49   ~ 0
 SCL
 Text Notes 2475 3950 2    49   ~ 0
 +3V3
-Text Notes 2125 4025 2    49   ~ 0
+Text Notes 2475 4050 2    49   ~ 0
 GND
 Text GLabel 3725 1100 2    50   Input ~ 0
 GPI39
@@ -1932,7 +1932,7 @@ L Connector:AudioJack3_SwitchTR J2
 U 1 1 5FBF29E7
 P 1750 5700
 F 0 "J2" H 1732 6025 50  0000 C CNN
-F 1 "AudioJack3_SwitchTR" H 1732 5934 50  0000 C CNN
+F 1 "Current coil in" H 1732 5934 50  0000 C CNN
 F 2 "Jack_3.5mm_CUI_FEMPM_Horizontal" H 1750 5700 50  0001 C CNN
 F 3 "~" H 1750 5700 50  0001 C CNN
 	1    1750 5700
@@ -1997,7 +1997,7 @@ L Connector:Screw_Terminal_01x02 J17
 U 1 1 5FF43CF4
 P 10650 6800
 F 0 "J17" H 10625 6925 50  0000 L CNN
-F 1 "Schakelaar 1 in" H 10775 6925 50  0000 L CNN
+F 1 "Switch 1 in" H 10775 6925 50  0000 L CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" H 10650 6800 50  0001 C CNN
 F 3 "~" H 10650 6800 50  0001 C CNN
 	1    10650 6800
@@ -2012,7 +2012,7 @@ L Connector:Screw_Terminal_01x02 J16
 U 1 1 5FF73192
 P 10625 8300
 F 0 "J16" H 10600 8425 50  0000 L CNN
-F 1 "Schakelaar 2 in" H 10750 8425 50  0000 L CNN
+F 1 "Switch 2 in" H 10750 8425 50  0000 L CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" H 10625 8300 50  0001 C CNN
 F 3 "~" H 10625 8300 50  0001 C CNN
 	1    10625 8300
@@ -2027,7 +2027,7 @@ L Connector:Screw_Terminal_01x02 J15
 U 1 1 5FF89856
 P 10600 9800
 F 0 "J15" H 10575 9925 50  0000 L CNN
-F 1 "Schakelaar 3 in" H 10725 9925 50  0000 L CNN
+F 1 "Switch 3 in" H 10725 9925 50  0000 L CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" H 10600 9800 50  0001 C CNN
 F 3 "~" H 10600 9800 50  0001 C CNN
 	1    10600 9800
@@ -2947,8 +2947,8 @@ $Comp
 L Connector_Generic:Conn_01x03 J29
 U 1 1 5FE6E41C
 P 2575 4750
-F 0 "J29" H 2525 4850 50  0000 L CNN
-F 1 "Current sensor select" H 2175 4950 50  0000 L CNN
+F 0 "J29" H 2500 4975 50  0000 L CNN
+F 1 "Current sensor select" H 2175 5075 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 2575 4750 50  0001 C CNN
 F 3 "~" H 2575 4750 50  0001 C CNN
 	1    2575 4750
