@@ -5,8 +5,8 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Node Standard"
-Date "2020-12-10"
-Rev "V0.6"
+Date "2020-12-15"
+Rev "V0.7"
 Comp "MakerSpace Leiden"
 Comment1 "Getekend door: Hans Beerman"
 Comment2 ""
