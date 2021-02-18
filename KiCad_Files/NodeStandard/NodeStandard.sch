@@ -5,8 +5,8 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Node Standard"
-Date "2021-01-06"
-Rev "V0.8"
+Date "2021-02-18"
+Rev "V0.9"
 Comp "MakerSpace Leiden"
 Comment1 "Getekend door: Hans Beerman"
 Comment2 ""
@@ -1163,7 +1163,7 @@ L Connector:Screw_Terminal_01x04 J21
 U 1 1 600DCDD4
 P 12550 4200
 F 0 "J21" H 12500 4450 50  0000 L CNN
-F 1 "FET 1 Output" H 12700 4450 50  0000 L CNN
+F 1 "FET 2 Output" H 12700 4450 50  0000 L CNN
 F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTB_2,5_4-GF-5,08_1x04_P5.08mm_Horizontal_ThreadedFlange" H 12550 4200 50  0001 C CNN
 F 3 "~" H 12550 4200 50  0001 C CNN
 	1    12550 4200
@@ -1966,7 +1966,7 @@ L ZMCT118F:ZMCT118F L1
 U 1 1 5FAE5F7A
 P 2600 6350
 F 0 "L1" V 2525 6350 50  0000 C CNN
-F 1 "ZMCT118F" V 2734 6350 50  0000 C CNN
+F 1 "TA12" V 2734 6350 50  0000 C CNN
 F 2 "Footprints:TA12-100" H 2600 6350 50  0001 C CNN
 F 3 "~" H 2600 6350 50  0001 C CNN
 	1    2600 6350

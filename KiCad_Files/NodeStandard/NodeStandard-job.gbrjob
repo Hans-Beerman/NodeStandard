@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "5.1.9-73d0e3b20d~88~ubuntu20.04.1"
     },
-    "CreationDate":  "2021-01-06T06:49:24+01:00"
+    "CreationDate":  "2021-02-18T19:50:56+01:00"
   },
   "GeneralSpecs":
   {
@@ -15,7 +15,7 @@
     {
       "Name": "NodeStandard",
       "GUID": "4e6f6465-5374-4616-9e64-6172642e6b69",
-      "Revision": "V0.8"
+      "Revision": "V0.9"
     },
     "Size":
     {
