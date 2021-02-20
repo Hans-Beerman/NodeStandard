@@ -1,5 +1,5 @@
 Drill report for /root/Projects/NodeStandard/KiCad_Files/NodeStandard/NodeStandard.kicad_pcb
-Created on do 18 feb 2021 19:50:47 CET
+Created on za 20 feb 2021 21:13:20 CET
 
 Copper Layer Stackup:
     =============================================================
@@ -28,5 +28,6 @@ Drill file 'NodeStandard-NPTH.drl' contains
     =============================================================
     T1  1,10mm  0,043"  (9 holes)
     T2  1,20mm  0,047"  (5 holes)
+    T3  2,20mm  0,087"  (2 holes)
 
-    Total unplated holes count 14
+    Total unplated holes count 16
