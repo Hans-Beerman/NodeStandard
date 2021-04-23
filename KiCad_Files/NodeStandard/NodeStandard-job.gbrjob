@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "5.1.9-73d0e3b20d~88~ubuntu20.04.1"
     },
-    "CreationDate":  "2021-02-20T21:13:30+01:00"
+    "CreationDate":  "2021-04-23T09:21:03+02:00"
   },
   "GeneralSpecs":
   {
@@ -20,7 +20,7 @@
     "Size":
     {
       "X": 129.132,
-      "Y": 160.501
+      "Y": 170.661
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
