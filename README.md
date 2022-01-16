@@ -4,6 +4,10 @@ NodeStandard is the base for different nodes, used at the MakerSpace Leiden, to 
 
 - **Drawings:**
 
+- **Gerber_Files:**
+
+This directory contains the Gerber files for production of the print. In this directory are the separate files and a *.ZIP file containing all these files. For ordering the printed circuit board, for example from JLCPCB, you only need to upload the ZIP file
+
 Schematic of the wiring between the different modules used
 
 - **KiCad\_files:**
